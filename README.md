@@ -14,7 +14,7 @@
 	- https://gist.github.com/sloria/5693955
 - You can also find our most recently trained model at below url.
 	- https://drive.google.com/file/d/1J_fgi0HSPFioG-QUuGa1AWk4pJlG7GZX/view?usp=sharing
-- Framework
+- Poster
 <img src="framework.png" width="900px" height="1000px"/>
 
 ## How to use
