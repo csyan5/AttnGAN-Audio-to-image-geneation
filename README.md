@@ -1,6 +1,9 @@
-# Speak Out And Get Your Bird -- 2018Fall Final project for CMPT-726
+# Speak Out And Get Your Bird -- Final project for CMPT-726
 
-## Introduction
+## Model Implementaion
+- Please see report.pdf for detailed implementaion.
+
+## Application Implementation
 
 - This is a simple TkInter GUI application that can transform your voice into images.  (Currently only bird supported)
 - In this project, we trained a new model that has one more layer than the existing AttnGAN model, which is aim to increase the image resolution with richer details. Specifically, our model is able to generate a bird image with 512\*512 pixels while the existing AttnGAN model with 256\*256 pixels.
